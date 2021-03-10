@@ -1,0 +1,6 @@
+venv
+build
+.idea
+dist
+*.egg-info
+outdated
